@@ -1,5 +1,3 @@
-# MMP100_NHolmes
-An HTML and CSS project for MMP 100
 <!-- <!DOCTYPE html>
 <html lang="en"> -->
 <link rel="stylesheet" type="text/css" href="style.css">
